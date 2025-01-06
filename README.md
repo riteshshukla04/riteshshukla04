@@ -9,7 +9,7 @@
 
 - 📫 Ping me like your favorite server **riteshshukla2381@gmail.com**
 
-- ⚡ Starter Pokemon **Charmander**
+- ⚡ Starter Pokemon **Bugasaur**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
