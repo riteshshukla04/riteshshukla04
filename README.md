@@ -3,7 +3,7 @@
 
 - 🔭 Currently Building at **Bajaj Finserv Health**
 
-- 🌱 Mostly Exploring **React native**
+- 🛠️ Contributor to React Native Core, Builder Bob and many more
 
 - 👨‍💻 Commands here [https://www.riteshshukla.dev/](https://www.riteshshukla.dev/)
 
