@@ -4,6 +4,8 @@
 - 🔭 Currently Building at **Bajaj Finserv Health**
 
 - 🛠️ Contributor to React Native Core, Builder Bob and many more
+  
+- 🛡️ Author of Turbo Encryption, kiosk-react-native, etc.
 
 - 👨‍💻 Commands here [https://www.riteshshukla.dev/](https://www.riteshshukla.dev/)
 
