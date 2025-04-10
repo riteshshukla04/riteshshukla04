@@ -5,7 +5,7 @@
 
 ### 🚀 About Me
 - 🔭 Currently Building at **Bajaj Finserv Health**
-- 🛠️ Contributor to **React Native Core, Builder Bob, and more**
+- 🛠️ Contributor to **React Native Core,Jellify ,Builder Bob, and more**
 - 🛡️ Author of **Turbo Encryption, kiosk-react-native, etc.**
 - 👨‍💻 Check out my commands & projects: [**riteshshukla.dev**](https://www.riteshshukla.dev/)
 - 📫 Reach me like your favorite server: **riteshshukla2381@gmail.com**
